@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "nombre": "Joshua P\u00e9rez",
+        "totalGastado": 950650,
+        "descuento": 0.05
+    },
+    {
+        "id": 2,
+        "nombre": "Marino Rodr\u00edguez",
+        "totalGastado": 100000,
+        "descuento": 0.0
+    },
+    {
+        "id": 3,
+        "nombre": "Pedro Tineo",
+        "totalGastado": 2365894,
+        "descuento": 0.15
+    }
+]

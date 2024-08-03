@@ -1,0 +1,2 @@
+Bienvenidos a Python
+Es un lenguaje amigable
