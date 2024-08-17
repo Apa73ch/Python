@@ -1,20 +1,50 @@
 [
     {
-        "id": 1,
-        "isbn": "9780312339111",
-        "nombre": "The Pythons",
-        "cantidad": 4
+        "ID": 1,
+        "ISBN": "9393574838",
+        "Nombre": "Python Básico",
+        "Cantidad": 4
     },
     {
-        "id": 2,
-        "isbn": "9483948923059",
-        "nombre": "Python B\u00e1sico",
-        "cantidad": 5
+        "ID": 2,
+        "ISBN": "12212322321",
+        "Nombre": "Python Avanzado",
+        "Cantidad": 4
     },
     {
-        "id": 3,
-        "isbn": "1234567891123",
-        "nombre": "Javascript",
-        "cantidad": 2
+        "ID": 1,
+        "ISBN": "9393574838",
+        "Nombre": "Python Básico",
+        "Cantidad": 4
+    },
+    {
+        "ID": 2,
+        "ISBN": "12212322321",
+        "Nombre": "Python Avanzado",
+        "Cantidad": 4
+    },
+    {
+        "ID": 1,
+        "ISBN": "9393574838",
+        "Nombre": "Python Básico",
+        "Cantidad": 4
+    },
+    {
+        "ID": 2,
+        "ISBN": "12212322321",
+        "Nombre": "Python Avanzado",
+        "Cantidad": 4
+    },
+    {
+        "ID": 1,
+        "ISBN": "9393574838",
+        "Nombre": "Python Básico",
+        "Cantidad": 4
+    },
+    {
+        "ID": 2,
+        "ISBN": "12212322321",
+        "Nombre": "Python Avanzado",
+        "Cantidad": 4
     }
 ]
