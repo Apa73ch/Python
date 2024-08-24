@@ -1,50 +1,14 @@
 [
     {
-        "ID": 1,
-        "ISBN": "9393574838",
-        "Nombre": "Python Básico",
-        "Cantidad": 4
+        "id": 1,
+        "isbn": "fjfjfg",
+        "nombre": "jfjfjg",
+        "cantidad": 10
     },
     {
-        "ID": 2,
-        "ISBN": "12212322321",
-        "Nombre": "Python Avanzado",
-        "Cantidad": 4
-    },
-    {
-        "ID": 1,
-        "ISBN": "9393574838",
-        "Nombre": "Python Básico",
-        "Cantidad": 4
-    },
-    {
-        "ID": 2,
-        "ISBN": "12212322321",
-        "Nombre": "Python Avanzado",
-        "Cantidad": 4
-    },
-    {
-        "ID": 1,
-        "ISBN": "9393574838",
-        "Nombre": "Python Básico",
-        "Cantidad": 4
-    },
-    {
-        "ID": 2,
-        "ISBN": "12212322321",
-        "Nombre": "Python Avanzado",
-        "Cantidad": 4
-    },
-    {
-        "ID": 1,
-        "ISBN": "9393574838",
-        "Nombre": "Python Básico",
-        "Cantidad": 4
-    },
-    {
-        "ID": 2,
-        "ISBN": "12212322321",
-        "Nombre": "Python Avanzado",
-        "Cantidad": 4
+        "id": 2,
+        "isbn": "jfjfjf",
+        "nombre": "Ejemplo",
+        "cantidad": 10
     }
 ]
